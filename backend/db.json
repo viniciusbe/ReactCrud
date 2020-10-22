@@ -4,6 +4,16 @@
       "name": "Vinicius",
       "email": "vinibsp10@gmail.com",
       "id": 1
+    },
+    {
+      "name": "Santos",
+      "email": "santos@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Bernardes",
+      "email": "bernardes@gmail.com\t",
+      "id": 3
     }
   ]
 }
