@@ -1,4 +1,12 @@
+This project was made during the [Web Javascript Course](https://github.com/viniciusbe/cursoDeWebEmJs) to practice React fundamentals.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<p align="center">
+  <img src="https://github.com/viniciusbe/ReactCrud/blob/master/.github/startPrev.png"/>
+  
+  <img src="https://github.com/viniciusbe/ReactCrud/blob/master/.github/usersPrev.png"/>
+</p>
 
 ## Available Scripts
 
