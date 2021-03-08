@@ -1,4 +1,4 @@
-This project was made during the [Web Javascript Course](https://github.com/viniciusbe/cursoDeWebEmJs) to practice React fundamentals.
+This project was made during a [Web development course](https://github.com/viniciusbe/cursoDeWebEmJs) to practice React fundamentals.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
